@@ -1,0 +1,456 @@
+﻿/*sp css for customaization and new genrat 11/22/16*/
+/*scheme page*/
+.cm-dropdwn-btn{    border-radius: 0px!important;
+    height: 35px!important;
+    position: absolute!important;
+    border: 1px solid #d3d3d3!important;
+    background: #dcdcdc!important;}
+    .custom-combobox
+        {
+           /* position: relative;
+            display: inline-block;*/
+        }
+     .custom-combobox-input
+        {
+            margin: 0;
+            padding: 5px 10px;
+            width: 529px;
+            font-size: 14px;
+        }
+  /*gravience status*/    
+  .ui-dialog{    border: 10px solid rgba(0, 0, 0, 0.84);}  
+
+
+  /*customized margin*/
+  
+  .cm-margin-top-10{margin-top: 10px!important;}
+  .cm-margin-top-15{margin-top: 15px!important;}
+  .cm-margin-top-20{margin-top: 20px!important;}
+  .cm-margin-top-25{margin-top: 25px!important;}
+  .cm-margin-top-30{margin-top: 30px!important;}
+  .cm-margin-top-35{margin-top: 35px!important;}
+  .cm-margin-top-40{margin-top: 40px!important;}
+  .cm-margin-top-45{margin-top: 45px!important;}
+  .cm-margin-top-50{margin-top: 50px!important;}
+  .cm-margin-top-55{margin-top: 55px!important;}
+  .cm-margin-top-60{margin-top: 60px!important;}
+  
+  .cm-margin-bottom-10{margin-bottom:10px!important;}
+  .cm-margin-bottom-15{margin-bottom:15px!important;}
+  .cm-margin-bottom-20{margin-bottom:20px!important;}
+  .cm-margin-bottom-25{margin-bottom:25px!important;}
+  .cm-margin-bottom-30{margin-bottom:30px!important;}
+  .cm-margin-bottom-35{margin-bottom:35px!important;}
+  .cm-margin-bottom-40{margin-bottom:40px!important;}
+  .cm-margin-bottom-60{margin-bottom:60px!important;}
+  
+  .cm-margin-right-30{margin-right: 30px;}
+
+.cm-tabel-th{min-width: 75px!important;}
+
+/*dashboard*/
+.cm-box-green
+{
+    background: #4ca953;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+    
+ .cm-box-sky
+{
+    background: #03A9F4;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+    
+     .cm-box-voilet
+{
+    background: #673AB7;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+         .cm-box-light-blue
+{
+    background: #01579b;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+        
+                 .cm-box-red
+{
+    background: #f54550;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+        
+      .cm-box-gold
+{
+    background: #FF9800;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+        
+              .cm-box-keyon
+{
+    background: #e91e63;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+        
+  .cm-box-new
+{
+    background: #d3ac2b;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+        
+          .cm-box-Carmine
+{
+    background: #6d090b;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+        
+        .cm-box-Sycamore
+{
+    background: #82983f;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+        
+                .cm-box-violetBox
+{
+    background: #cb45f5;
+    color:#fff;
+    height: 133px;
+    width: 23%;
+    float: left;
+    margin: 10px 0px 0px 16px;
+        border-radius: 5px;}
+        
+        
+        
+        
+@media (max-width: 1270px){  .cm-box-green {width: 35%; } .cm-box-sky {width: 35%; } .cm-box-voilet {width: 35%; } .cm-box-light-blue {width: 35%; } 
+              .cm-box-red {width: 35%; }.cm-box-gold {width: 35%; }.cm-box-keyon {width: 35%; }.cm-box-new {width: 35%; } }
+ @media (max-width: 992px){ .cm-box-green { width: 50%;} .cm-box-sky {width: 50%; } .cm-box-voilet {width: 50%; }.cm-box-light-blue {width: 50%; }
+            .cm-box-red {width: 50%; } .cm-box-gold {width: 35%; }.cm-box-keyon {width: 35%; }.cm-box-new {width: 35%; }}
+  @media (max-width: 865px){ .cm-box-green { width: 95%;} .cm-box-sky {width: 95%; } .cm-box-voilet {width: 95%; }.cm-box-light-blue {width: 95%; }
+            .cm-box-red {width: 95%; } .cm-box-gold {width: 35%; }.cm-box-keyon {width: 35%; }.cm-box-new {width: 35%; }}
+
+.cm-box1-icon {
+    width: 108px;
+    height: 118px;
+    background: url(../images/icon1.png);
+    background-size: 59%;
+    padding: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.cm-box2-icon {
+    width: 108px;
+    height: 118px;
+    background: url(../images/icon2.png);
+    background-size: 59%;
+    padding: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.cm-box3-icon {
+    width: 108px;
+    height: 118px;
+    background: url(../images/icon3.png);
+    background-size: 59%;
+    padding: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.cm-box4-icon {
+    width: 108px;
+    height: 118px;
+    background: url(../images/icon4.png);
+    background-size: 59%;
+    padding: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.cm-box8-icon {
+    width: 108px;
+    height: 118px;
+    background: url(../images/bar-chart.png);
+    background-size: 59%;
+    padding: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.cm-box5-icon {
+    width: 108px;
+    height: 118px;
+    background: url(../images/icon5.png);
+    background-size: 59%;
+    padding: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.cm-box6-icon {
+    width: 108px;
+    height: 118px;
+    background: url(../images/icon6.png);
+    background-size: 59%;
+    padding: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.cm-box7-icon {
+    width: 108px;
+    height: 118px;
+    background: url(../images/icon7.png);
+    background-size: 59%;
+    padding: 10px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.stats h3{color: #fff;}
+
+/*menu deshboard logoff circle*/
+.btm{     padding: 10px;
+    border-top: 1px solid #eeeeee;
+    margin-top: 25px;
+    border-bottom: 1px solid #eeeeee;}
+.log-off{    width: 155px;
+    height: 155px;
+    border: 5px solid #0866c6;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 0px 0px 10px 3px #000 inset;}
+    
+ .log-off-t{    display: block;
+    text-align: center;
+    width: 117px;
+    margin: 16px auto;
+    border-bottom: 2px solid #0866c6;}
+     .log-off-t i{    font-size: 27px!important;}
+    .dash-b{    display: block;
+    margin: -15px auto;
+    text-align: center;}
+    .dash-b i{font-size: 27px!important;}
+    
+    /*dashboard button*/
+    .ui-dialog-buttonset button{    background: #0866c6;
+    color: #fff;
+        border: 1px solid #004c9a;
+    box-shadow: 0px 3px 10px -1px rgb(60, 60, 60);}
+    
+    /*ticker primary*/
+.input-group.primary .cm-border-radius-top{    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;}
+    .cm-ticker-shadow{    box-shadow: -1px 3px 4px 0px rgba(0, 0, 0, 0.31);}
+ .cm-marque {font-size: 14px;font-weight:bold;border-bottom: 2px solid #0866c6;
+    line-height: 26px;}
+    
+   /* Added By Girjesh*/
+    .cm-Top10Officermarque {font-size: 10px;border-bottom: 2px solid #0866c6;
+    line-height: 26px;
+    white-space: nowrap;}
+    
+    #main-menu-wrapper .btm a:hover {
+    background-color: rgba(255, 255, 255, 0);
+    border-left: 4px solid rgba(8, 102, 198, 0);
+    color: #0866c6;
+}
+
+.input-group-addon{text-align:right!important;}
+/*table footer highlite*/
+.table-higlite{     background: rgba(255, 255, 255, 0);
+    color: #151515;
+    font-weight: normal;
+    text-transform: uppercase;
+    position: absolute;
+    top: 7px;
+    right: 0;
+    }
+    .table-higlite td{border-color: rgba(0, 0, 0, 0)!important;font-size: 24px;}
+  
+    
+    /*dilog box cross*/
+    .ui-dialog-titlebar-close
+    {
+            background: #0866c6;
+    border: 1px solid #0866c6;}
+    .ui-dialog-titlebar-close:after{    content: "\f102";
+    font-family: Flaticon;
+    color: #fff;
+    font-size: 14px;}
+    .back{     position: fixed;
+    right: 15px;
+    bottom: 8px;
+    box-shadow: 3px 3px 15px 1px rgba(0, 0, 0, 0.47);}
+    
+    /*when menu hover in small nav logof and deshboard system in menu hide*/
+    .page-sidebar.chat_shift #main-menu-wrapper .wraplist li:hover a, .page-sidebar.collapseit #main-menu-wrapper .wraplist .btm:hover {display: none;}
+    .director-link{    color: #0866c6;
+    text-decoration: underline;
+    font-weight: 600;
+    letter-spacing: 1px;}
+    
+    .list-numb{ color: #e40000;}
+    
+    .blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {  
+  50% { opacity: 0; }
+}
+
+.cm-model-scroll{height: 400px;
+                 overflow-y: scroll;}
+                 
+           .print{    background: url(../images/print.png);
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    position: absolute;
+    right: 0;
+    top: 5px;}
+              .exel{      background: url(../images/Excel-2010.png);
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    position: absolute;
+    right: 35px;
+    top: -7px;
+    border: 1px solid rgba(31, 114, 70, 0);
+    padding: 0px;}
+     
+     .print-link{    float: right;
+    margin-right: 30px;
+    margin-top: 15px;}
+    .exel-link{   float: right;
+    margin-right: 75px;
+    margin-top: 15px;}
+    .compony-name{    margin: 0 7px;}
+    .compony-name:after{     content: " ";
+    width: 15px;
+    height: 15px;
+    background: url(../images/logo-surevin.png) rgba(255, 255, 255, 0.87);
+    position: absolute;
+    background-size: cover;
+    margin: 4px 7px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.26);}
+    
+    @media (max-width: 865px){
+.cm-box-gold {
+    width: 95%;
+}
+.cm-box-keyon{
+    width: 95%;
+}
+.table-higlite {
+    width: 100%;
+    position: initial;
+}
+}
+ 
+  .tp43{padding-top: 46px;}  
+/*------ X Verified Icons  -----------*/
+.checkmark {
+    display:inline-block;
+    width: 22px;
+    height:22px;
+    -ms-transform: rotate(45deg); /* IE 9 */
+    -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+    transform: rotate(45deg);
+}
+
+.checkmark_circle {
+    position: absolute;
+    width:22px;
+    height:22px;
+    background-color: green;
+    border-radius:11px;
+    left:0;
+    top:0;
+}
+.checkmark_circle1 {
+    position: absolute;
+    width:22px;
+    height:22px;
+    background-color: red;
+    border-radius:11px;
+    left:0;
+    top:0;
+}
+
+.checkmark_stem {
+    position: absolute;
+    width: 3px;
+    height: 10px;
+    background-color: #fff;
+    left: 11px;
+    top: 5px;
+}
+
+.checkmark_kick {
+    position: absolute;
+    width:7px;
+    height:3px;
+    background-color:#fff;
+    left:7px;
+    top:14px;
+}
+.checkmark_stem1 {
+    position: absolute;
+    width: 3px;
+    height: 17px;
+    background-color: #fff;
+    left: 10px;
+    top: 3px;
+}
+.checkmark_kick1 {
+    position: absolute;
+    width: 17px;
+    height: 3px;
+    background-color: #fff;
+    left: 3px;
+    top: 10px;
+}
+
+
+.FileUploadStyle
+{
+    
+}
+/*------ X Verified Icons  -----------*/
+

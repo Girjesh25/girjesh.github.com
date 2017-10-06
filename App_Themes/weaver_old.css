@@ -1,0 +1,37 @@
+body { margin-left:0pt; margin-right:0pt;margin-top:0pt;margin-bottom:0pt }
+a {text-decoration:none;color:#354325}
+a:hover {color:#F45F42;text-decoration:underline;}
+
+#headerwrapper {background:#06325C;height:55px}
+.topmenu {padding:5px 10px 5px 10px; height:20px; font-family:arial, tahoma;font-size:9pt;border-right:1px solid #0C58A4; font-weight:bold;}
+.topmenu a {display:block;color:#FFFFFF}
+
+
+#headerwrapper {background:#06325C;height:55px}
+.topmenut {padding:5px 10px 5px 10px; height:20px; font-family:arial, tahoma;font-size:13pt; solid #0C58A4; font-weight:bold;}
+.topmenut a {display:block;color:#FFFFFF}
+
+#bodywrapper {width:980px; margin:0 auto}
+.main {width:980px;height:550px}
+.pagewrapper {margin-top:10px;width:980px; margin 0 auto; background:#FFFFFF; width:980px;height:550px;border-radius:10px}
+
+
+.pagetitle {height:40px;   font-family: arial, tahoma, verdana; font-size: 18pt;color:#06325C;  padding:5px; border-bottom: 1px solid #D7DFCF; }
+.pagetext {  font-family: arial, verdana, Arial; font-size: 9pt; color: #000000; text-align:Justify; padding:10px}
+.pagetext a {text-decoration:underline}
+
+.loginbox { background:#F7F7F7;border:1px solid #D3D3D3; border-radius:10px}
+.loginbox th {background:#06325C; padding:5px;font-family:arial, tahoma;font-size:10pt;color:#FFFFFF;border-radius:5px}
+.loginbox td {padding:5px;font-family:arial,tahoma;font-size:9pt;}
+
+
+#footerwrapper {position:relative; height:180px; background-repeat:repeat-x;}
+.footer {position:absolute; bottom:0; left:0; width:100%; background:#2E2E2E; height:40px; text-align:center;font-family: arial, tahoma, verdana; font-size: 9pt;color:#FFFFFF;  padding-top:10px}
+
+.callc { border:0px solid #D3D3D3; border-radius:10px; background-repeat:no-repeat;padding-left:90px}
+.callc td {background-image:url('images/received_icon.png');padding:25px;font-family:arial,tahoma;font-size:16pt;color:red; width="159" height="56" background-repeat:no-repeat;}
+
+.callch { border:0px solid #D3D3D3; border-radius:10px; background-repeat:no-repeat;padding-left:90px}
+.callch td {background-image:url('images/received_icon_hindi.png');padding:25px;font-family:arial,tahoma;font-size:18pt;color:red; width="159" height="56" background-repeat:n$
+
+

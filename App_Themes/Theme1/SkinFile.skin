@@ -1,0 +1,39 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+
+
+<asp:GridView runat="server" CellPadding="4" CellSpacing="4" ForeColor="#000000" GridLines="Both" BorderColor=" #DDDDDD" BorderStyle="Solid" BorderWidth="1px" >
+        <FooterStyle BackColor="lightgray" Font-Bold="True" ForeColor="Black" />
+        <RowStyle BackColor="#F9F9F9" ForeColor="#000000"  />
+        <PagerSettings Position="Bottom"/>
+        <AlternatingRowStyle BackColor="#FFFFFF" />
+        <PagerStyle BackColor="#FFFFFF" ForeColor="Black" HorizontalAlign="Right" />
+        <SelectedRowStyle BackColor="#FFFFEC"  Font-Bold="True" ForeColor="#3F3F3F" />
+        <HeaderStyle BackColor="#D9EDF7" Font-Bold="True" CssClass="gridHeader" ForeColor="#000000" HorizontalAlign="Center" />
+        <EditRowStyle BackColor="#FFFFEC" Font-Size="13px" Font-Bold="True" ForeColor="#3F3F3F" />
+</asp:GridView>
+--%>
+<asp:GridView SkinId="Admin" runat="server" CssClass="Grid" CellPadding="1" CellSpacing="1" ForeColor="#000000" GridLines ="Vertical"  HeaderStyle-HorizontalAlign ="Left"  BorderColor=" #DDDDDD" BorderStyle="Solid" BorderWidth="1px" >
+        <FooterStyle Font-Size="12px" BackColor="lightgray" Font-Bold="True" ForeColor="Black" />
+        <RowStyle Font-Size="12px" BackColor="#F9F9F9" ForeColor="#000000"  />
+        <PagerSettings Position="Bottom"/>
+        <AlternatingRowStyle BackColor="#FFFFFF" />
+        <PagerStyle Font-Size="12px" BackColor="#FFFFFF" ForeColor="Black" HorizontalAlign="Right" />
+        <SelectedRowStyle BackColor="#FFFFEC"  Font-Bold="True" ForeColor="#3F3F3F" />
+        <HeaderStyle  BackColor="#F0F0F0" Font-Size="12px"  Font-Bold="True" ForeColor="#000000" HorizontalAlign="Center" />
+        <EditRowStyle BackColor="#FFFFEC" Font-Size="12px" Font-Bold="True" ForeColor="#3F3F3F" />
+</asp:GridView>
+
+ <asp:TextBox runat="server" height="20px" CssClass="radius"></asp:TextBox>
